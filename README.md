@@ -1,3 +1,2 @@
 # Projeto-Portfólio
-
-VISUALIZAÇÃO DO MEU PROJETO > https://vercel.com/lucasteixeirabraga
+-Apresentação pessoal em um layout responsivo
